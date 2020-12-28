@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\TCM\\Programación I_2019\\P1 2021\\P1_Memory_student\\P1_Memory_student.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\P1_Memory\\P1_Memory_student.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\TCM\\Programación I_2019\\P1 2021\\P1_Memory_student\\P1_Memory_student.csproj": {
+    "C:\\Users\\HP\\source\\repos\\P1_Memory\\P1_Memory_student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\TCM\\Programación I_2019\\P1 2021\\P1_Memory_student\\P1_Memory_student.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\P1_Memory\\P1_Memory_student.csproj",
         "projectName": "P1_Memory_student",
-        "projectPath": "C:\\Users\\HP\\Documents\\TCM\\Programación I_2019\\P1 2021\\P1_Memory_student\\P1_Memory_student.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\P1_Memory\\P1_Memory_student.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\TCM\\Programación I_2019\\P1 2021\\P1_Memory_student\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\P1_Memory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

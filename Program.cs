@@ -9,7 +9,7 @@ namespace P1_Memory_student
 		{
 			Console.WriteLine("Hello World!");
 			//PENDENT IMPLEMENTAR
-			Console.WriteLine("bye!");
+			//Console.WriteLine("bye!");
 		}
 
 

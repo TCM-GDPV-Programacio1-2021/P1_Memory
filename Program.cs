@@ -7,7 +7,7 @@ namespace P1_Memory_student
 		private static ControladorJocMemory controlador; //per controlar l'estat del joc.
 		static void Main()
 		{
-			Console.WriteLine("Hello World! Sync");
+			Console.WriteLine("Hello World! online");
 			//PENDENT IMPLEMENTAR
 		}
 

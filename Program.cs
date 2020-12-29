@@ -7,7 +7,7 @@ namespace P1_Memory_student
 		private static ControladorJocMemory controlador; //per controlar l'estat del joc.
 		static void Main()
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello World! Adeu");
 			//PENDENT IMPLEMENTAR
 		}
 
